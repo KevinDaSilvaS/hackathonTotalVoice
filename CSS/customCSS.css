@@ -1,0 +1,18 @@
+.hourInput {
+    text-align: center !important;
+}
+
+input[type=range] {
+    height: 60px !important;
+    border: 0px solid white;
+}
+
+.listaequipamento {
+    padding: 10px !important;
+    box-shadow: 2px 2px 8px 0.8px rgb(206, 206, 206);
+}
+
+hr {
+    padding: 0.02px;
+    border: #00000000 !important;
+}
